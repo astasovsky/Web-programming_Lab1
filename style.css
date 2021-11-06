@@ -1,0 +1,17 @@
+*{
+    font-family:  "Times New Roman"; /* нужный шрифт */
+    font-size: 14pt;
+    text-align: center;
+}
+.a4{
+    width: 180mm;   /* ширина 210-30*/
+    height: 267mm; /* высота 297-30*/
+    padding: 15mm 15mm 15mm 25mm; /* внутренние отступы - верх, право, низ, лево */
+    margin: 50px auto;  /* выравнивание по центру */ 
+    box-shadow: 10px 10px 20px black; /* небольшая тень для объемности */
+    background-color: white;  /* цвет фона в блоке */
+    line-height: 1.3;
+}
+.signatures{
+    width: 100%;
+}
